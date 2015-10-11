@@ -1,0 +1,26 @@
+{
+  "name": "bs-string-format",
+  "version": "0.0.2",
+  "description": "format string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badugisoft/bs-string-format.git"
+  },
+  "author": "Andrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/badugisoft/bs-string-format/issues"
+  },
+  "homepage": "https://github.com/badugisoft/bs-string-format",
+  "dependencies": {
+    "escape-regexp": "0.0.1",
+    "flat": "1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "2.3.3"
+  }
+}
